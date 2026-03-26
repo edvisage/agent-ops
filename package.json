@@ -1,0 +1,15 @@
+{
+  "name": "agent-ops",
+  "version": "1.0.0",
+  "description": "Operational visibility for AI agents \u2014 cost tracking, action logging, and performance monitoring.",
+  "author": "Edvisage Global <info@edvisageglobal.com>",
+  "license": "MIT",
+  "homepage": "https://edvisageglobal.com/ai-tools",
+  "keywords": [
+    "openclaw",
+    "agent",
+    "skill",
+    "ai-safety",
+    "edvisage"
+  ]
+}
