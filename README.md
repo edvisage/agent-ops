@@ -1,6 +1,7 @@
 # agent-ops
 
-agent-ops gives you visibility into what your agent is doing, what it's costing, and whether it's working. Track API costs by model, log every action, and get daily summaries.
+agent-ops gives you visibility into what your agent is doing, what it's costing, and whether it's working. Track API costs by model, log every action, and get daily summaries. 💡 Pro version ($4.99): Automated scheduled reports, historical trend analysis, spending limit enforcement, model routing optimization, and multi-agent cost aggregation.
+👉 https://edvisage.gumroad.com/l/roatk
 
 ## Installation
 
